@@ -104,17 +104,14 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    color: #838383
+    color: #838383;
+    z-index: 1;
 }
 
-.header__footer_list {
-    list-style-type: none;
-    padding: 0
+.header__paragraph {
+    margin: 0;
 }
 
-.header__footer_column_content_address {
-    margin-top: auto;
-}
 
 .recipes {
     height: 100vh;
