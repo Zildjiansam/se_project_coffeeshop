@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Future plans include adding a (tasteful) bit more animations, a custom checkbox, more recipe videos, and maybe some behind the scenes of life as a barista.
