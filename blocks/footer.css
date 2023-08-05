@@ -48,11 +48,11 @@
     line-height: 20px;
     color: #fff;
     text-decoration: none;
+    transition: color .3s ease-in;
 }
 
 .footer__social-link:hover {
     color: #C1C1C1;
-    transition: color .3s ease-in;
 }
 
 .footer__social-icon {
