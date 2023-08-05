@@ -35,7 +35,7 @@
 }
 
 .header__description {
-    margin: 0 0 0 80px;
+    margin: 0 0 auto 80px;
     max-width: 683px;
     font-family: "Noto Serif", 'Times New Roman', serif;
     font-style: normal;
@@ -55,7 +55,7 @@
 .header__footer {
     display: flex;
     justify-content: space-between;
-    margin: auto 80px 40px 80px;
+    margin: 0 80px 40px 80px;
     font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -63,6 +63,7 @@
     line-height: 20px;
     color: #6F6F6F;
     z-index: 1;
+    align-items: end;
 }
 
 .header__paragraph {

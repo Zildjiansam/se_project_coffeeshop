@@ -18,7 +18,7 @@
     padding: 0;
 }
 
-.footer__social {
+.footer__social-heading {
     font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -26,6 +26,7 @@
     line-height: 20px;
     color: #fff;
     margin-bottom: 20px;
+    margin-top: 0;
 }
 
 .footer__list {
