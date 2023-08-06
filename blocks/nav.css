@@ -1,38 +1,38 @@
 .nav {
-    display: flex;
-    justify-content: space-between;
-    margin: 30px 80px 0 30px;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 80px 0 30px;
 }
 
 .nav__logo {
-    width: 105px;
-    height: 39px;
+  width: 105px;
+  height: 39px;
 }
 
 .nav__links {
-    display: flex;
-    margin: 0;
-    padding: 0;
-    column-gap: 20px;
-    list-style-type: none;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  column-gap: 20px;
+  list-style-type: none;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .nav__link {
-    color: black;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
-    text-decoration: none;
-    transition: color .4s ease-in;
+  color: black;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  transition: color 0.4s ease-in;
 }
 
 .nav__link:hover {
-    color: #2F80ED;
+  color: #2f80ed;
 }
